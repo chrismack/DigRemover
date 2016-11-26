@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.5.3",
+    "package": "com.chrismack.digremover.mixins",
+    "refmap": "mixins.digremover.refmap.json",
+    "mixins": [
+        "MixinParticleDigging"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
